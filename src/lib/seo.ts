@@ -1,8 +1,8 @@
 import type { ArticleMetadata } from "./article-metadata";
 import { SITE_ORIGIN } from "./site";
 
-export const SITE_NAME = "Sai Nimmagadda";
-export const SITE_TITLE = "Sai Nimmagadda - Full-Stack Engineer";
+export const SITE_NAME = "Sudar Blogger";
+export const SITE_TITLE = "Sudar Blogger - The Jurnal Sudarmanto";
 export const SITE_DESCRIPTION = "Full-stack engineer. full-time nerd";
 
 const DEFAULT_IMAGE_PATH = "/images/articles/share.jpg";
