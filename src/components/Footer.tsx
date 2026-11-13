@@ -4,7 +4,7 @@ export function Footer() {
 			<div className="w-full px-[clamp(16px,4vw,44px)] py-6">
 				<div className="flex flex-wrap items-center justify-between gap-2.5 font-mono text-xs text-faint">
 					{/* Copyright*/}
-					<div>© 2026 Sai Nimmagadda. All rights reserved.</div>
+					<div>© 2026 Sudar Blogger. All rights reserved.</div>
 					{/* Social Links*/}
 					<div className="flex items-center space-x-4">
 						<a
