@@ -67,7 +67,7 @@ export function Header() {
 					<Link to="/" className="flex items-center space-x-2">
 						<CoffeeCup />
 						<span className="text-xl text-foreground hover:text-accent font-semibold font-mono">
-							s11a
+							sudar
 						</span>
 					</Link>
 				</div>
