@@ -27,10 +27,10 @@ function Home() {
 			<section className="flex flex-wrap items-start justify-center gap-10">
 				<div className="min-w-70 flex-1">
 					<div className="font-mono text-[13px] font-medium tracking-[0.14em] text-accent">
-						{"// morning pour — thoughts on software & life"}
+						{"// morning pour — content creator & traveller"}
 					</div>
 					<h1 className="mt-4 max-w-prose text-[clamp(28px,4vw,40px)] leading-[1.28]">
-						<TextType text="Hi, I'm Sai." />{" "}
+						<TextType text="Hi, I'm Dar." />{" "}
 						<span className="block">
 							A full‑stack engineer writing about healthcare tech, AI, and
 							whatever else is brewing.{" "}
